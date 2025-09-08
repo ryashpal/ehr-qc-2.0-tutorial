@@ -12,8 +12,7 @@ and clinical outcome modeling. It introduces three major improvements:
 
 Together, these updates enable fully automated workflows, robust interoperability, and improved accessibility making EHR-QC 2.0 a more powerful and user-friendly tool for healthcare data analytics.
 
-The tool is available at: `https://ehrqc.tsonika-lab.cloud.edu.au <https://ehrqc.tsonika-lab.cloud.edu.au>`_
-
+The tool is available at: `http://ehrqc.tsonika-lab.cloud.edu.au <http://ehrqc.tsonika-lab.cloud.edu.au>`_
 
 
 .. note::

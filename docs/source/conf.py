@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'EHR-ML'
+copyright = '2023, Dr. Sonika Tyagi'
+author = 'Yashpal Ramakrishnaiah'
 
 release = '0.1'
 version = '0.1.0'

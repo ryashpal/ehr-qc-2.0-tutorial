@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "lumache"
-authors = [{name = "Graziella", email = "graziella@lumache"}]
+name = "EHR-QC-2.0"
+authors = [{name = "Yashpal Ramakrishnaiah", email = "yashpal.ramakrishnaiah1@monash.edu"}]
 dynamic = ["version", "description"]
