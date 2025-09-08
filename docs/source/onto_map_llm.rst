@@ -119,6 +119,7 @@ Specify a new file location to host the new DB. Specifying an existing location 
 The current file supports TSV and CSV files.
 
 The user must also specify the following:
+
 - Column in CSV file that contains the unique concept identifiers (CUI/Codes)
 - Column in CSV file that contains the concept label
 
@@ -152,6 +153,7 @@ Semantic Concept Matching
 The current file supports TSV and CSV files.
 
 The user must also specify the following:
+
 - Column in CSV file that contains the unique concept identifiers (CUI/Codes)
 - Column in CSV file that contains the concept label
 
