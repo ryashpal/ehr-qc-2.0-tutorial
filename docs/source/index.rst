@@ -1,15 +1,24 @@
 EHR-QC-2.0
 ==========
 
-EHR-Int aims to provide a more comprehensive understanding of disease progression by integrating Electronic Health Record (EHR) data with bacterial genomic sequencing data. This approach considers both the host's response (reflected in EHR data) and the characteristics of the pathogen itself (obtained through genomic sequencing). This integrated analysis has the potential to lead to more accurate and informative models for disease progression.
+**EHR-QC 2.0** is an enhanced version of the EHR-QC pipeline for preparing 
+Electronic Health Record (EHR) and linked genomic data for machine learning 
+and clinical outcome modeling. It introduces three major improvements:
 
-**High-Level Architecture**
+- **LLM-driven terminology mapping** – Leverages large language models (LLM) to perform 
+  accurate, semantic standardisation of biomedical concepts.
+- **Expanded interoperability** – Supports FHIR (HL7) standard for seamless data exchange.
+- **Web-based interface** – Provides a web-based UI reducing reliance on command-line operations.
+
+Together, these updates enable fully automated workflows, robust interoperability, and improved accessibility making EHR-QC 2.0 a more powerful and user-friendly tool for healthcare data analytics.
+
+The tool is available at: `https://ehrqc.tsonika-lab.cloud.edu.au <https://ehrqc.tsonika-lab.cloud.edu.au>`_
 
 
 
 .. note::
 
-   In this documentation, we provide detailed usage information about Pathogene on FHIR module. However, this is only a part of EHR-Int framework which consists of other modules.
+   In this documentation, we provide detailed usage information about the enhancements that are part of EHR-QC-2.0 release. The usage instructions for the original version of EHR-QC can be found here `link https://ehr-qc-tutorials.readthedocs.io/`_
 
 
 .. note::
@@ -36,4 +45,6 @@ Contents
 .. toctree::
    :maxdepth: 1
 
+   onto_map_llm
    omop_fhir
+   ehrqc_web
