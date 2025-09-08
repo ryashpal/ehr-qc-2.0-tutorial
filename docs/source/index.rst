@@ -36,4 +36,4 @@ Contents
 .. toctree::
    :maxdepth: 1
 
-   usage
+   omop_fhir
