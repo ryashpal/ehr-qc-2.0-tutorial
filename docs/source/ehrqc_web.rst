@@ -101,7 +101,8 @@ The data standardisation step begins by importing and configuring CSV files. Use
 
 This process ensures raw clinical data is harmonised into a standardised OMOP-CSM format, enabling reliable downstream quality checks, and preprocessing.
 
-.. image:: ./images/standardise.gif
+.. figure:: ./images/standardise.gif
+
    Figure 1: Standardisation Process
 
 
