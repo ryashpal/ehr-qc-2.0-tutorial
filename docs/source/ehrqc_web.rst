@@ -101,11 +101,24 @@ The data standardisation step begins by importing and configuring CSV files. Use
 
 This process ensures raw clinical data is harmonised into a standardised OMOP-CSM format, enabling reliable downstream quality checks, and preprocessing.
 
-.. image:: ./images/standardise.gif
+.. figure:: ./images/standardise.gif
+   Figure 1: Standardisation Process
 
 
 Preprocessing
 -------------
+
+Data Extraction Process is shown in the image below;
+
+Once the data has been standardised, the extraction step enables users to retrieve specific subsets of data for further analysis. The process includes:
+
+Upload SQL Files – Users can upload their own SQL scripts to define the exact data they wish to extract.
+
+Predefined Queries – Alternatively, a dropdown menu provides access to ready-made SQL queries, such as example lab extractions.
+
+Run Extraction – After selecting or uploading a query, the Run Extract button executes the process, extracting the requested dataset from the standardised database.
+
+This step provides flexibility by supporting both custom SQL and preconfigured queries, making it easier for users to tailor data extraction to their research or quality control needs.
 
 
 Extract Data
