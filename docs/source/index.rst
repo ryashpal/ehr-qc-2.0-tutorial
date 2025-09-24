@@ -17,7 +17,7 @@ The tool is available at: `http://ehrqc.tsonika-lab.cloud.edu.au <http://ehrqc.t
 
 .. note::
 
-   In this documentation, we provide detailed usage information about the enhancements that are part of EHR-QC-2.0 release. The usage instructions for the original version of EHR-QC can be found here `link https://ehr-qc-tutorials.readthedocs.io/`_
+   In this documentation, we provide detailed usage information about the enhancements that are part of EHR-QC-2.0 release. The usage instructions for the original version of EHR-QC can be found here `https://ehr-qc-tutorials.readthedocs.io/ <https://ehr-qc-tutorials.readthedocs.io/>`_
 
 
 .. note::
