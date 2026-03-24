@@ -45,3 +45,4 @@ Contents
    onto_map_llm
    omop_fhir
    ehrqc_web
+   case_study
