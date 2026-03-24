@@ -1,5 +1,5 @@
-EHR-QC Updated
-==============
+EHR-QC Update
+=============
 
 **EHR-QC** has an update consisting of three major improvements:
 
