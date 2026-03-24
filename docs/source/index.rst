@@ -1,9 +1,7 @@
-EHR-QC-2.0
-==========
+EHR-QC Updated
+==============
 
-**EHR-QC 2.0** is an enhanced version of the EHR-QC pipeline for preparing 
-Electronic Health Record (EHR) and linked genomic data for machine learning 
-and clinical outcome modeling. It introduces three major improvements:
+**EHR-QC** has an update consisting of three major improvements:
 
 - **LLM-driven terminology mapping** – Leverages large language models (LLM) to perform 
   accurate, semantic standardisation of biomedical concepts.
