@@ -16,6 +16,11 @@ Data Standardisation
 The dataset was standardised to the OMOP Common Data Model (OMOP-CDM) using the EHR-QC standardisation module, leveraging the mapped SNOMED concepts.
 
 
+.. figure:: ./images/casestudy_standardise.png
+
+   Figure 1: Data Standardisation
+
+
 Data Extraction and Quality Assessment
 ++++++++++++++++++++++++++++++++++++++
 
